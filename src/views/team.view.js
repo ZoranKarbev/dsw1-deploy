@@ -44,7 +44,7 @@ export default class TeamView {
                             
                             <div class="col-12 col-sm-6 col-md-4 d-flex justify-content-center">
                                 <div class="card mb-3">
-                                    <img class="card-img-top team-view_img" src="../images/team/Linkedin_Pic.jpg" alt="boris">
+                                    <img class="card-img-top team-view_img" src="../images/team-members/Linkedin_Pic.jpg" alt="boris">
                                     <div class="card-body py-3">
                                         <h5 class="mt-2 mb-0">BORIS STEFANOVIC</h5>
                                         <p class="mb-0"><span class="person-skills">Web Developer</span></p>                                         
