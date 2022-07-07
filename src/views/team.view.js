@@ -16,7 +16,7 @@ export default class TeamView {
 
                             <div class="col-12 col-sm-6 col-md-4 d-flex justify-content-center">
                                 <div class="card mb-3">
-                                    <img class="card-img-top team-view_img" src="../images/team/vedra.jpg" alt="vedra">
+                                    <img class="card-img-top team-view_img" src="/images/team/vedra.jpg" alt="vedra">
                                     <div class="card-body py-3">
                                         <h5 class="mt-2 mb-0">VEDRA STOJANOVSKA</h5>
                                         <p class="mb-0"><span class="person-skills">Web Developer</span></p>
@@ -30,7 +30,7 @@ export default class TeamView {
 
                             <div class="col-12 col-sm-6 col-md-4 d-flex justify-content-center">
                                 <div class="card mb-3">
-                                    <img class="card-img-top team-view_img" src="../images/team/zoran.jpg" alt="zoran">
+                                    <img class="card-img-top team-view_img" src="images/team/zoran.jpg" alt="zoran">
                                     <div class="card-body pt-3">
                                         <h5 class="mt-2 mb-0">ZORAN KARBEV</h5>
                                         <p class="mb-0"><span class="person-skills">Web Developer & Designer</span></p>                                      
@@ -44,7 +44,7 @@ export default class TeamView {
                             
                             <div class="col-12 col-sm-6 col-md-4 d-flex justify-content-center">
                                 <div class="card mb-3">
-                                    <img class="card-img-top team-view_img" src="../images/team/Linkedin_Pic.jpg" alt="boris">
+                                    <img class="card-img-top team-view_img" src="./images/team/Linkedin_Pic.jpg" alt="boris">
                                     <div class="card-body py-3">
                                         <h5 class="mt-2 mb-0">BORIS STEFANOVIC</h5>
                                         <p class="mb-0"><span class="person-skills">Web Developer</span></p>                                         
@@ -59,7 +59,7 @@ export default class TeamView {
 
                             <div class="col-12 col-sm-6 col-md-4 d-flex justify-content-center">
                                 <div class="card mb-3">
-                                    <img class="card-img-top team-view_img" src="../images/team/acko2.jpg" alt="acko">
+                                    <img class="card-img-top team-view_img" src="../../images/team/acko2.jpg" alt="acko">
                                     <div class="card-body py-3">
                                         <h5 class="mt-2 mb-0">ALEKSANDAR ICHEV</h5>
                                         <p class="mb-0"><span class="person-skills">Full-Stack Developer</span></p>                                     
